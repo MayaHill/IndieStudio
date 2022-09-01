@@ -20,9 +20,11 @@ Install boost:
     sudo apt-get install libboost-all-dev
 
 To compile:
+
     ./launch.sh build
 
 ## Launch the game
+
     ./bomberman
 
 ### Windows Installer
@@ -32,4 +34,5 @@ Install boost:
     https://boostorg.jfrog.io/artifactory/main/release/1.79.0/source/boost_1_79_0.7z
 
 To compile:
+
     launch the ./launch.ps1 on visual studio
