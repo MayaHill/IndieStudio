@@ -1,0 +1,14 @@
+# Target labels
+ raylib-populate
+# Source files and their labels
+/home/maya/Documents/Stage/Github_Portfolio/IndieStudio/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate
+/home/maya/Documents/Stage/Github_Portfolio/IndieStudio/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate.rule
+/home/maya/Documents/Stage/Github_Portfolio/IndieStudio/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete.rule
+/home/maya/Documents/Stage/Github_Portfolio/IndieStudio/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install.rule
+/home/maya/Documents/Stage/Github_Portfolio/IndieStudio/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir.rule
+/home/maya/Documents/Stage/Github_Portfolio/IndieStudio/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download.rule
+/home/maya/Documents/Stage/Github_Portfolio/IndieStudio/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update.rule
+/home/maya/Documents/Stage/Github_Portfolio/IndieStudio/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch.rule
+/home/maya/Documents/Stage/Github_Portfolio/IndieStudio/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure.rule
+/home/maya/Documents/Stage/Github_Portfolio/IndieStudio/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build.rule
+/home/maya/Documents/Stage/Github_Portfolio/IndieStudio/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test.rule
