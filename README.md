@@ -2,7 +2,7 @@
 
 <img src="assets/github/bomberman-title.png" alt="Title Image">
 
-The aim of the Indie Studio is to implement a local multiplayer cross-platform 3D bomberman.
+The aim of the Indie Studio was to implement a local multiplayer cross-platform 3D bomberman.
 
 <img src="assets/github/bomberman-playerchoices.png" alt="Selection Menu">
 <img src="assets/github/bomberman-ready.png" alt="Ready">
